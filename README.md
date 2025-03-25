@@ -1,2 +1,2 @@
-# Practicos-ProgII-UTN
-Resoluciones de los trabajos prácticos dados en la materia "Programacion 2" de la "Tecnicatura en Programación" en la UTN de Mendoza.
+# Resolución de los Trabajos Prácticos de Programación II.
+Carpeta contenedora con la resolución de todos los trabajos prácticos, prácticas integradoras y parciales dados en el primer semestre en la materia Programación II Java de la Tecnicatura en Programación.
